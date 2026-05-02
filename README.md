@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # NullTrace — Network Anonymization Tool
 
 > Three-layer identity rotation for Linux: MAC spoofing · IP renewal · VPN tunneling.
